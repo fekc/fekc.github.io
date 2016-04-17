@@ -54,7 +54,7 @@ a:focus {
 }
 .title-small {
   font-size: 38px;
-  color: #3f51b5;
+  color: #167ac1;
   margin-bottom: 30px;
   line-height: 50px;
 }
@@ -81,7 +81,7 @@ a:focus {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
   padding: 0!important;
-  background: #3f51b5 !important;
+  background: #167ac1 !important;
 }
 .sticky-navigation .row {
   padding: 0;
@@ -259,13 +259,13 @@ a:focus {
   line-height: 80px;
   border-radius: 50%;
   font-size: 36px;
-  color: #3f51b5;
+  color: #167ac1;
 }
 #features .features h4 {
   margin-bottom: 10px;
   font-size: 20px;
   font-weight: 700;
-  color: #3f51b5;
+  color: #167ac1;
 }
 #features .features .features-text {
   padding-left: 80px;
@@ -302,7 +302,7 @@ a:focus {
   padding: 48px 0;
 }
 #cta {
-  background: #3f51b5;
+  background: #167ac1;
 }
 #cta .drawer {
   float: left;
@@ -425,7 +425,7 @@ a:focus {
 }
 #other-features .features-content:hover i,
 #other-features .features-content:hover h3 {
-  color: #3f51b5;
+  color: #167ac1;
 }
 #testimonial {
   width: 100%;
@@ -481,7 +481,7 @@ a:focus {
 }
 #counter .counter-item h5 {
   text-align: center;
-  color: #3f51b5;
+  color: #167ac1;
   font-size: 16px;
   text-transform: uppercase;
   line-height: 32px;
@@ -495,7 +495,7 @@ a:focus {
 #counter .timer {
   font-size: 50px;
   font-weight: 100;
-  color: #3f51b5;
+  color: #167ac1;
   text-transform: uppercase;
   text-align: center;
   line-height: 80px;
@@ -514,7 +514,7 @@ a:focus {
 }
 #contact .info .icon i {
   font-size: 36px;
-  color: #3f51b5;
+  color: #167ac1;
 }
 #contact .info h4 {
   color: #385461;
