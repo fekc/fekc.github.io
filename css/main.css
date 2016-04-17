@@ -243,9 +243,7 @@ a:focus {
     font-size: 50px !important;
   }
 }
-#features {
-  background: #fff;
-}
+
 #features .features {
   margin: 30px 0;
 }
@@ -274,8 +272,7 @@ a:focus {
   margin: 0;
 }
 #why {
-  background: url(../img/why-bg.jpg);
-  background-size: cover;
+  background-color: #167ac1;
   color: #fff;
 }
 #why .content h2 {
@@ -504,7 +501,8 @@ a:focus {
   text-align: center;
 }
 #contact {
-  background: #ecf0f1;
+  background: #333;
+  color: #fff;
 }
 #contact .info {
   padding: 15px 0;
@@ -517,12 +515,12 @@ a:focus {
   color: #167ac1;
 }
 #contact .info h4 {
-  color: #385461;
+  color: #167ac1;
   font-size: 24px;
   font-weight: 400;
 }
 #contact .info p {
-  color: #909090;
+  color: #ddd;
 }
 .contact-form {
   margin-top: 52px;
